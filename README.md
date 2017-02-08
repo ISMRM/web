@@ -1,2 +1,2 @@
-# web
+# WEB
 Web Editorial Board Homepage
